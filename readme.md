@@ -1,5 +1,6 @@
+웹 이용약관
+--------
 본 사이트는 KHRONOS에서 제작한 탬플릿을 기반으로 만들어져있습니다.
-==================================================================================================
 
 본 사이트의 디자인을 제외한 나머지 내용의 지식재산권은 SQUARE(스퀘어)에게 있으며 무단으로 사용을 금합니다.
 
@@ -14,14 +15,12 @@
 위 주의사항과 약관을 꼭 지켜주시길 바라며 이용자의 약관 위반과 주의사항 미숙지로 인한 피해는 책임지지 않습니다.
 
 DESCRIPTION:
-
+------------
 KHRONOS is a creative pack of coming soon template pages. Its elegant and clean design makes it
 perfect for every creative people, corporate, agency or anyone who is currently building their
 site and want to show a coming soon page in a creative way. Khronos is available in three style 
 variations: static, slideshow, and particle background.
 
-
-==================================================================================================
 
 
 LICENSE:
