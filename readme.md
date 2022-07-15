@@ -24,7 +24,7 @@ variations: static, slideshow, and particle background.
 
 
 LICENSE:
-
+--------
 This free resource is provided by styleshout.com and is free to use in 
 both personal and commercial projects.
 
@@ -63,7 +63,7 @@ If you have any questions about the License, feel free to contact us.
 
 
 REMOVING THE ATTRIBUTION LINK:
-
+------------------------------
 We understand that there are situations where you want to use our templates without 
 the crediting obligation. If that's your case, you can always send us a 
 credit removal fee of 10 USD through Paypal. This will allow you to use a single 
@@ -82,7 +82,7 @@ Also, keep your Paypal receipt as proof of payment and your good to go.
 
 
 SUPPORT:
-    
+--------   
 Since KHRONOS is distributed for free, support is not offered. KHRONOS is coded according 
 to current web standards and we did our best to make the template easy to use and modify.
 If you have minimum web development experience, you can easily modify the template. 
@@ -104,7 +104,7 @@ javascript in your skill-set, you can also check out these tutorials:
 
 
 USING THE MAILCHIMP FORM:
-
+-------------------------
 To use the mailchimp form you need a mailchimp url. To get the mailchimp url, login to 
 your mailchimp account, click the Audience menu and select signup forms. Then choose 
 embedded forms and select unstyled form. In the generated form code get the value of 
@@ -129,7 +129,7 @@ Replace the value of mailChimpURL with your mailchimp url.
 
 
 SOURCES AND CREDITS:
-
+--------------------
 I've used the following resources as listed.
 
 Fonts:
